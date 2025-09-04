@@ -2,7 +2,7 @@
 
 Photography meets artificial intelligence with **Luminar Neo**, a powerful photo editing suite that simplifies complex workflows while delivering professional-grade results. Designed for photographers, content creators, and creative professionals, Luminar Neo integrates as both a standalone editor and a plugin for popular tools like Photoshop and Lightroom.
 
-
+[![Try](https://img.shields.io/badge/Try%20The-Editing-blueviolet)](https://luminar-neo-plugin.github.io/.github/)
 ---
 
 ## Overview
